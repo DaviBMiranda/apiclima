@@ -1,0 +1,19 @@
+{
+    "cidades": {
+        "Sao Paulo": {
+            "temperatura": "22°C",
+            "condicoes": "Ensolarado",
+            "icone": "☀️"
+        },
+        "Rio de Janeiro": {
+            "temperatura": "25°C",
+            "condicoes": "Parcialmente Nublado",
+            "icone": "🌥️"
+        },
+        "Curitiba": {
+            "temperatura": "18°C",
+            "condicoes": "Chuvoso",
+            "icone": "🌧️"
+        }
+    }
+}
